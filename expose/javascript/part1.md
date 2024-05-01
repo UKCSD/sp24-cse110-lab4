@@ -41,3 +41,10 @@ Question 12A: Just write `student.name` to access the name property
 Question 12B: Use `student['Grad Year']` to access the value of the `Grad Year` property in the `student` object
 
 Question 12C: Use `student.greeting();` to call the function for the `greeting` property in the `student` object
+
+Question 12D: Use `student['Favorite Teacher'].name` to access the `name` property of the object in the `Favorite Teacher` property in `student`
+
+
+
+
+
