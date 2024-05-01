@@ -50,12 +50,17 @@ Question 13A: '32', since using the `+` operator between a string and an integer
 
 Question 13B: 1, since when using the `-` operator the string is converted to an integer then the subtraction continues like normal.
 
-Question 13C: 3 is returned since `null` is considered a `0` when doing numberical operations
+Question 13C: 3 is returned since `null` is considered a `0` when doing numberical operations.
 
-Question 13D: '3null' since null is concatenated like in 13A
+Question 13D: '3null' since null is concatenated like in 13A.
 
-Question 13E: 4, since true counts as a `1` in numberical operations
+Question 13E: 4, since true counts as a `1` in numerical operations.
 
+Question 13F: 0, since both `false` and `null` count as a `0` in numberical operations.
+
+Question 13G: '3undefined' due to the same logic as 13D.
+
+Question 13H: NaN, since the result is not a number.
 
 
 
