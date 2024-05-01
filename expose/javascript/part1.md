@@ -44,6 +44,9 @@ Question 12C: Use `student.greeting();` to call the function for the `greeting` 
 
 Question 12D: Use `student['Favorite Teacher'].name` to access the `name` property of the object in the `Favorite Teacher` property in `student`
 
+Question 12E: Use `student.courseLoad[0]` to access index zero in the array of the `courseLoad` property of the `student` object
+
+
 
 
 
