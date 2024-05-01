@@ -76,6 +76,8 @@ Question 14F: true, since `Boolean` for any number besides `0` is set to `true`
 
 Question 15: the `==` operator checks for equality after type coercion, the `===` operator checks before coercion
 
+Question 16: In ../part2-question16.js
+
 
 
 
