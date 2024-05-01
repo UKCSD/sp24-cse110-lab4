@@ -38,6 +38,6 @@ Question 11: The array of discounted prices is returned
 
 Question 12A: Just write `student.name` to access the name property
 
-Question 12B: Use `student['Grad Year']` to access the value of the `Grad Year` property in the student object
+Question 12B: Use `student['Grad Year']` to access the value of the `Grad Year` property in the `student` object
 
-Question 12C: 
+Question 12C: Use `student.greeting();` to call the function for the `greeting` property in the `student` object
