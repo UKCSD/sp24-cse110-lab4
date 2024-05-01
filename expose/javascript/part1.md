@@ -30,4 +30,6 @@ Question 7: 150 is returned even though `finalPrice` is a `let` but its scope is
 
 Question 8: The function will return the array of discounted prices, but nothing will be printed
 
-Question 9: An error is returned since `discountedPrice` is a constant variable which is being assigned a new value and since `finalPrice` is also a constant variable being assigned a new value. Also because `i` is out of scope of the `console.log`.
+Question 9: An error is returned since `i` is out of scope since it is a `let`
+
+Question 10: 
