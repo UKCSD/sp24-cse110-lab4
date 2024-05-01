@@ -16,9 +16,9 @@ Question 6: Error, since you cannot change the value of a constant variable
 
 Question 1: 3. The value of `i` will be printed which is the number of times the `for` loop above ran
 
-Question 2: 150. The last discountedPrice will be printed
+Question 2: 150. The last `discountedPrice` will be printed
 
-Question 3: 150
+Question 3: 150. The last `finalPrice` will be printed which is just the same as the last `discountedPrice`
 
 Question 4: 
 
