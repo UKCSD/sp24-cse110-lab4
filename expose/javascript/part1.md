@@ -26,4 +26,6 @@ Question 5: An error was returned since `i` is out of scope because it is a `let
 
 Question 6: An error was returned since `discountedPrice` is out of scope because it is a `let` defined inside of the `for` loop block
 
-Question 7: 150 is returned since finalPrice is a `let` but its scope is the entire function block
+Question 7: 150 is returned even though `finalPrice` is a `let` but its scope is the entire function block
+
+Question 8: 
