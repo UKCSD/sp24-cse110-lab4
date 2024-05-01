@@ -63,3 +63,5 @@ Question 14F: true, since `Boolean` for any number besides `0` is set to `true`
 Question 15: the `==` operator checks for equality after type coercion, the `===` operator checks before coercion
 
 Question 16: In ../part2-question16.js
+
+Question 17: Evertytime line 4 is called, that array index is essentially doubled since `doSomething` is being called as a sub routine. All this function does then is it goes through every index of the passed array and doubles every value
