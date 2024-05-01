@@ -62,7 +62,11 @@ Question 13G: '3undefined' due to the same logic as 13D.
 
 Question 13H: NaN, since the result is not a number.
 
+Question 14A: true, since `'2'` is converted to a number before comparison
 
+Question 14B: false, since, alphabetically, `2` is greater then `12`
+
+Question 14C: true, since '2' is converted into a number before comparison
 
 
 
