@@ -67,3 +67,9 @@ Question 16: In ../part2-question16.js
 Question 17: Evertytime line 4 is called, that array index is essentially doubled since `doSomething` is being called as a sub routine. All this function does then is it goes through every index of the passed array and doubles every value
 
 Question 18: in ../part2-question18.js
+
+Question 19: 
+1
+4
+3
+2
