@@ -23,3 +23,5 @@ Question 3: 150. The last `finalPrice` will be printed which is just the same as
 Question 4: The function will return the array of discounted prices, but nothing will be printed
 
 Question 5: An error was returned since `i` is out of scope because it is a let defined inside of the function block
+
+Question 6: An error was returned since `discountedPrice` is out of scope because it is a let defined inside of the function block
