@@ -68,6 +68,13 @@ Question 14B: false, since, alphabetically, `2` is greater then `12`
 
 Question 14C: true, since '2' is converted into a number before comparison
 
+Question 14D: false, since `===` doesn't perform type coercion
+
+Question 14E: false, even though `true` is converted to a `1` in its numerical form, it still isn't equal to `2`
+
+Question 14F: true, since `Boolean` for any number besides `0` is set to `true`
+
+Question 15: the `==` operator checks for equality after type coercion, the `===` operator checks before coercion
 
 
 
