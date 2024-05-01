@@ -20,6 +20,6 @@ Question 2: 150. The last `discountedPrice` will be printed
 
 Question 3: 150. The last `finalPrice` will be printed which is just the same as the last `discountedPrice`
 
-Question 4: 
+Question 4: The function will return the array of discounted prices, but nothing will be printed
 
 Question 5: 
