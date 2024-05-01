@@ -36,4 +36,8 @@ Question 10: 3 is printed since `prices.length` = 3.
 
 Question 11: The array of discounted prices is returned
 
-Question 12: Just write `student.name` to access the name property
+Question 12A: Just write `student.name` to access the name property
+
+Question 12B: Use `student['Grad Year']` to access the value of the `Grad Year` property in the student object
+
+Question 12C: 
