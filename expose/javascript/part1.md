@@ -35,3 +35,5 @@ Question 9: An error is returned since `i` is out of scope since it is a `let`
 Question 10: 3 is printed since `prices.length` = 3.
 
 Question 11: The array of discounted prices is returned
+
+Question 12: Just write `student.name` to access the name property
